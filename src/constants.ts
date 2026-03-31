@@ -20,7 +20,7 @@ export const SERVICES: Service[] = [
     title: 'Taman Kering',
     description: 'Solusi taman rendah perawatan dengan penggunaan batu alam dan tanaman sukulen yang estetik.',
     icon: 'Mountain',
-    image: '/img/tamankering.jpeg'
+    image: 'https://scontent.cdninstagram.com/v/t1.15752-9/657762933_1420976045996876_5059208154390473513_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=CFjBmSKRz0oQ7kNvwE2O60U&_nc_oc=AdqxuAOSfXNkO1XiclvOSsbhNhhwmAyVB9nOJnWUvv0mHcHtE6zRFG71iRnQZa6cNf6xrFqUswAxNXeUQvSN4l1i&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_ss=7a32e&oh=03_Q7cD5AGIc9Lj-_1CSCKaeuzO4effDUsSWlNZ-ftFvOPWebiOMA&oe=69F351EC'
   },
   {
     id: '4',
@@ -57,7 +57,7 @@ export const PORTFOLIO: PortfolioItem[] = [
   { id: 'p2', title: 'Vertical Garden Kantor', category: 'vertical', image: '/img/Tamanminimalis.webp' },
   { id: 'p3', title: 'Kolam Koi Estetik', category: 'water', image: '/img/kolamhias.webp' },
   { id: 'p4', title: 'Taman Tropis Rimbun', category: 'tropical', image: 'https://images.unsplash.com/photo-1598902108854-10e335adac99?q=80&w=800' },
-  { id: 'p5', title: 'Taman Kering Jepang', category: 'dry', image: '/img/tamankering.jpeg' },
+  { id: 'p5', title: 'Taman Kering Jepang', category: 'dry', image: 'https://scontent.cdninstagram.com/v/t1.15752-9/657762933_1420976045996876_5059208154390473513_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=CFjBmSKRz0oQ7kNvwE2O60U&_nc_oc=AdqxuAOSfXNkO1XiclvOSsbhNhhwmAyVB9nOJnWUvv0mHcHtE6zRFG71iRnQZa6cNf6xrFqUswAxNXeUQvSN4l1i&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_ss=7a32e&oh=03_Q7cD5AGIc9Lj-_1CSCKaeuzO4effDUsSWlNZ-ftFvOPWebiOMA&oe=69F351EC' },
   { id: 'p6', title: 'Gazebo Kayu Jati', category: 'hardscape', image: '/img/hardscape.webp' },
   { id: 'p7', title: 'Renovasi Taman Depan', category: 'minimalist', image: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?q=80&w=800', isBeforeAfter: true },
   { id: 'p8', title: 'Vertical Garden Indoor', category: 'vertical', image: 'https://images.unsplash.com/photo-1599423300746-b62533397212?q=80&w=800' },
